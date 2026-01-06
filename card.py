@@ -13,10 +13,10 @@ class Card:
 
         # Translating 11>'J', 12>'Q', 13>'K', 14>'A' Using a dictionary
         rank_names ={
-            11: 'Jack',
-            12: 'Queen',
-            13: 'King',
-            14: 'Ace'
+            11: 'J',
+            12: 'Q',
+            13: 'K',
+            14: 'A'
         }
 
         # If the rank is in the dictionary, use the corresponding name
